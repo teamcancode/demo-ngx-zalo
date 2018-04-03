@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
-import { NgxZaloService } from 'ngx-zalo/dist/app/shared/services/ngx-zalo.service';
+import { NgxZaloService } from 'ngx-zalo';
 
 @Component({
   selector: 'demo-ngx-zalo-callback',
